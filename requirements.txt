@@ -1,0 +1,14 @@
+langchain 
+langchain_community 
+langchain_chroma
+numpy
+pandas
+langchain-openai
+langchainhub
+bs4
+langchain-huggingface
+tqdm
+trange
+pypdf
+fastapi
+streamlit
