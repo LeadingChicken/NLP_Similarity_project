@@ -12,3 +12,5 @@ trange
 pypdf
 fastapi
 streamlit
+fastapi[standard]
+sklearn
